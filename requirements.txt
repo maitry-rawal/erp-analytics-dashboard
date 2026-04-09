@@ -1,0 +1,4 @@
+pandas>=2.0
+plotly>=5.18
+streamlit>=1.30
+ucimlrepo>=0.0.7
